@@ -3,23 +3,23 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "MySQUAR Challenge"
+title: "Henry Tao"
 description: > # this means to ignore newlines until "email:"
-  We are looking for awesome developers (like you) to join us at MySQUAR. Check out some of our challenges below, push it to GitHub, and show us what you have got. 
+  I am a fullstack engineer at MySQUAR. I am passion about building awesome products, also rock in Javascript, NodeJS and AngularJS. 
 
-email: a-mail@mail.mail
+email: hi@henrytao.me
 #blog logo
-logo: "/assets/images/mysquar-logo.jpg"
+logo: "/assets/images/henry-logo.png"
 # blog cover
-cover: "/assets/images/mysquar-challenge-banner.jpg"
+cover: "/assets/images/creatives-desk.jpg"
 
-name: 'MySQUAR'
-author: 'MySQUAR'
-author_image: "/assets/images/mysquar-logo.jpg"
+name: 'Henry Tao'
+author: 'Henry Tao'
+author_image: "/assets/images/henry-logo.png"
 
 paginate:	5
 
-url: "http://challenge.mysquar.com" # the base hostname & protocol for your site
+url: "http://henrytao.me" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
@@ -31,12 +31,12 @@ social:
   #   share_title: ?text=
   #   share_link: "&amp;url="
 
-  - icon:	facebook
-    url:	https://facebook.com/SquarMyanmar
-    desc: Connect with us on Facebook
-    share_url: //www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
+  # - icon:	facebook
+  #   url:	https://facebook.com/SquarMyanmar
+  #   desc: Connect with us on Facebook
+  #   share_url: //www.facebook.com/sharer.php
+  #   share_title: ?t=
+  #   share_link: "&amp;u="
 
   # - icon:	github
   #   url:	https://github.com/dirkfabisch
