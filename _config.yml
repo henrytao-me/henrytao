@@ -23,6 +23,7 @@ url: "http://henrytao.me" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
+twitter_username: 'henrytao_me'
 social:
   # - icon:	twitter
   #   url:	https://twitter.com/dirkfabisch
