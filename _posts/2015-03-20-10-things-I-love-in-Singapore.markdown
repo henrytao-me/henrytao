@@ -7,7 +7,7 @@ tags: travel singapore experience
 image: /assets/article_images/2015-03-20-10-things-I-love-in-Singapore/banner.jpg
 ---
 
-Last week, I joined #fossasia. This was amazing event and organized in amazing country - Singapore. 
+Last week, I joined [#fossasia](https://twitter.com/fossasia). This was amazing event and organized in amazing country - Singapore. 
 
 ### 1. People is so nice
 
@@ -18,7 +18,7 @@ It's quite crowded in Singapore especially under MRT. However I didn't think it'
 
 ### 2. Government mindset
 
-It's nice to have [Prof. Vivian](https://twitter.com/VivianBala) - Minister for the Environment and Water Resources, Singapore to come on stage and give a talk about open source at #fossasia. He definitely got attention of everyone in the room (including me) by showing his code on #nodejs and how he can connect, retrieve and extract information from Singapore public data. Someone asked him "How did Singapore build up a wealthy country? What's Singapore advantages? What're lessons learn from other countries?". Here are some of his answers which made me admire a lot. 
+It's nice to have [Prof. Vivian](https://twitter.com/VivianBala) - Minister for the Environment and Water Resources, Singapore to come on stage and give a talk about open source at [#fossasia](https://twitter.com/fossasia). He definitely got attention of everyone in the room (including me) by showing his code on [#nodejs](https://nodejs.org) and how he can connect, retrieve and extract information from Singapore public data. Someone asked him "How did Singapore build up a wealthy country? What's Singapore advantages? What're lessons learn from other countries?". Here are some of his answers which made me admire a lot. 
 
 - Singapore is a small country and managing a small country is more easier than big country. 
 - Almost people in government in Singapore either has Math degree or Computer Science degree. Most of them are running a business in real life which is another big advantage comparing to other country. 
