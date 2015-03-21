@@ -66,7 +66,7 @@ If you have photo sphere, check it out. I like Marina Bay Sands and Garden By Th
 
 ### 9. Big Big Big
 
-My impression about Singapore is everything is big, really big, from skyscraper to big Tree, big shell, big scrap and more... It's really amazing. 
+My impression about Singapore is everything is big, really big, from skyscraper to big tree, big shell, big scrap and more... It's really amazing. 
 
 
 ### 10. Finally, let's shoot the fly
