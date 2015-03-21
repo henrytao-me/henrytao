@@ -4,6 +4,7 @@ title:  "10 things I love in Singapore"
 date:   2015-03-20 08:00:00
 categories: life
 tags: travel singapore experience
+description: "Last week, I joined #fossasia. This was amazing event and organized in amazing country - Singapore. Here are 10 things I love in Singapore"
 image: /assets/article_images/2015-03-20-10-things-I-love-in-Singapore/banner.jpg
 ---
 

@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}" />
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
-  <meta property="og:image" content="{{site.url}}{{page.image}}">
+  <meta property="og:image" content="{{site.url}}{% if page.image %}{{ page.image }}{% else %}{{ site.logo }}{% endif %}">
 
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
