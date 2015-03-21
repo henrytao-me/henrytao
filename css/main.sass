@@ -641,3 +641,32 @@ pre > code
 
 .post-content
   text-align: justify
+
+.share-page
+  text-align: center
+  background: #ce0000
+  color: #fff
+  padding: 8px 15px
+  border-radius: 2px
+  margin: 1.5 * 10 0
+
+  .share-title 
+    display: inline-block
+
+  .share-social
+    display: inline-block
+
+  @media only screen and (max-width: 480px)
+    .share-title 
+      display: block
+      .arrow 
+        display: none
+
+  a
+    font-weight: 700
+    color: #fff !important
+    margin-left: 10px
+    text-decoration: none !important
+
+    &:hover
+      border-bottom: 1px dashed #fff

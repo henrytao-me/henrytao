@@ -28,7 +28,7 @@ It's nice to have [Prof. Vivian](https://twitter.com/VivianBala) - Minister for 
 
 ### 3. Transportation is so good
 
-The only thing I can say about MRT is awesome. Taking the control of transportation instead of giving it to single citizen (Ex: motobike) is a good idea. In my opinion, the benefit of that are less air pollution, less traffic, less accident, less annoy (from peole driving too fast or too slow). 
+The only thing I can say about MRT is awesome. Taking the control of transportation instead of giving it to single citizen (Ex: motobike) is a good idea. In my opinion, the benefit of that are less air pollution, less traffic, less accident, less annoy (from people driving too fast or too slow). 
 
 ![MRT in Singapore][mrt]
 
@@ -57,7 +57,7 @@ This season is not so hot in Singapore. However, even in hot season, I think it'
 
 ### 8. Nice View
 
-If you have photo sphere, check it out. I like Marina Bay Sands and Garden By The Bay. I haven't gone to the top of Marina Bay Sands, inside the big Tree in Garden By The Bay, Safari and Tiger Tower. See you next time Singapore. 
+If you have photo sphere, check it out. I like Marina Bay Sands and Garden By The Bay. I haven't gone to the top of Marina Bay Sands, inside the Big Tree in Garden By The Bay, Safari and Tiger Tower. See you next time Singapore. 
 
 ![Marina View][marina]
 
